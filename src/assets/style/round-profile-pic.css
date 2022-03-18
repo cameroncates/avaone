@@ -1,0 +1,8 @@
+
+.round__profile__picture {
+    width: 102px;
+    height: 102px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;    
+}

@@ -1,0 +1,7 @@
+body {
+    font-family: poppins-regular !important;
+    color: white !important;
+    transition: 0.3s !important;
+}
+input:active, input:focus { outline: none !important; box-shadow: none !important; }
+.tr td { vertical-align: middle !important;}

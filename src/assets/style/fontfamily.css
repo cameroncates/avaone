@@ -1,0 +1,55 @@
+/* INTER FONT-FAMILY */
+@font-face { font-family: inter-bold; src: url(../font/inter/Inter-Bold.ttf) }
+.font-inter-bold { font-family: inter-bold }
+@font-face { font-family: inter-extrabold; src: url(../font/inter/Inter-ExtraBold.ttf) }
+.font-inter-extrabold { font-family: inter-extrabold }
+@font-face { font-family: inter-light; src: url(../font/inter/Inter-Light.ttf) }
+.font-inter-light { font-family: inter-light }
+@font-face { font-family: inter-medium; src: url(../font/inter/Inter-Medium.ttf) }
+.font-inter-medium { font-family: inter-medium }
+@font-face { font-family: inter-regular; src: url(../font/inter/Inter-Regular.ttf) }
+.font-inter-regular { font-family: inter-regular }
+@font-face { font-family: inter-thin; src: url(../font/inter/Inter-Thin.ttf) }
+.font-inter-thin { font-family: inter-thin }
+
+/* Rajdhani */
+@font-face { font-family: rajdhani-bold; src: url(../font/rajdhani/Rajdhani-Bold.ttf) }
+.font-rajdhani-bold { font-family: rajdhani-bold }
+@font-face { font-family: rajdhani-bold; src: url(../font/rajdhani/Rajdhani-Bold.ttf) }
+.font-rajdhani-light { font-family: rajdhani-light }
+@font-face { font-family: rajdhani-light; src: url(../font/rajdhani/Rajdhani-Light.ttf) }
+.font-rajdhani-medium { font-family: rajdhani-medium }
+@font-face { font-family: rajdhani-medium; src: url(../font/rajdhani/Rajdhani-Medium.ttf) }
+.font-rajdhani-regular { font-family: rajdhani-regular }
+@font-face { font-family: rajdhani-regular; src: url(../font/rajdhani/Rajdhani-Regular.ttf) }
+.font-rajdhani-regular { font-family: rajdhani-regular }
+@font-face { font-family: rajdhani-semibold; src: url(../font/rajdhani/Rajdhani-SemiBold.ttf) }
+.font-rajdhani-semibold { font-family: rajdhani-semibold }
+
+/* Roboto */
+@font-face { font-family: roboto-bold; src: url(../font/roboto/Roboto-Bold.ttf) }
+.font-roboto-bold { font-family: roboto-bold }
+@font-face { font-family: roboto-light; src: url(../font/roboto/Roboto-Light.ttf) }
+.font-roboto-light { font-family: roboto-light }
+@font-face { font-family: roboto-medium; src: url(../font/roboto/Roboto-Medium.ttf) }
+.font-roboto-medium { font-family: roboto-medium }
+@font-face { font-family: roboto-regular; src: url(../font/roboto/Roboto-Regular.ttf) }
+.font-roboto-regular { font-family: roboto-regular }
+@font-face { font-family: roboto-thin; src: url(../font/roboto/Roboto-Thin.ttf) }
+.font-roboto-thin { font-family: roboto-thin }
+
+/* Audiowide */
+@font-face { font-family: audiowide-regular; src: url(../font/audiowide/Audiowide-Regular.ttf) }
+.font-audiowide-regular { font-family: audiowide-regular }
+
+/* Poppins */
+@font-face { font-family: poppins-regular; src: url(../font/poppins/Poppins-Regular.ttf) }
+.font-poppins-regular { font-family: poppins-regular }
+@font-face { font-family: poppins-bold; src: url(../font/poppins/Poppins-Bold.ttf) }
+.font-poppins-bold { font-family: poppins-bold }
+@font-face { font-family: poppins-extrabold; src: url(../font/poppins/Poppins-ExtraBold.ttf) }
+.font-poppins-extrabold { font-family: poppins-extrabold }
+@font-face { font-family: poppins-semibold; src: url(../font/poppins/Poppins-SemiBold.ttf) }
+.font-poppins-semibold { font-family: poppins-semibold }
+@font-face { font-family: poppins-thin; src: url(../font/poppins/Poppins-Thin.ttf) }
+.font-poppins-thin { font-family: poppins-thin }

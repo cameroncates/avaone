@@ -1,0 +1,9 @@
+.hover__light:hover { transition: 0.3s !important; background-color: rgba(0, 0, 0, 0.05) !important; }
+.hover__light:active { transition: 0.1s !important; background-color: rgba(0, 0, 0, 0.1) !important; }
+
+.hover__primary:hover { transition: 0.3s !important; background-color: rgba(0, 158, 233, 0.05) !important; }
+.hover__primary:active { transition: 0.1s !important; background-color: rgba(0, 158, 233, 0.1) !important; }
+
+.hover__cartitem:hover { background-color: white !important; color: #723FA7 !important;}
+.hover__cartitem:hover * { color: #723FA7 !important;}
+.hover__cartitem:hover .bg-white { background-color: black !important;}

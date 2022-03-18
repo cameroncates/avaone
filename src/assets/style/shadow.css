@@ -1,0 +1,4 @@
+.shadow__none { box-shadow: none !important;}
+.text-shadow__green { text-shadow: 0px 0px 15px #5E702F; }
+.box-shadow__dark { box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.5) !important;}
+.box-shadow__purple { box-shadow: 0px 20px 30px rgba(76, 64, 247, 0.20); }

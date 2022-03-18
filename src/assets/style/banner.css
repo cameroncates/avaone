@@ -1,0 +1,19 @@
+
+/* hero image */
+#hero-container, .hero-container {
+    width: 100%;
+    max-width: 100%;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background: url("https://cdn.pixabay.com/photo/2015/01/09/11/11/startup-594126_960_720.jpg");
+    position: relative;  
+}
+
+#hero-body {
+    z-index: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
